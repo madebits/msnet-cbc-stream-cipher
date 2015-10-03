@@ -1,0 +1,1 @@
+To make C# aes.dll use makelib.bat
