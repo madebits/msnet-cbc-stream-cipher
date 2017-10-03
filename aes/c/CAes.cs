@@ -1,6 +1,6 @@
 // wrapper around C implementation aesc.dll
 // (c) 2004 by Vasian Cepa
-// http://madebits.com
+// 
 //
 // June 21, 2004
 // http://fp.gladman.plus.com/cryptography_technology/rijndael/index.htm

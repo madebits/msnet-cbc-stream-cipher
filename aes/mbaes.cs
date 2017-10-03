@@ -17,7 +17,7 @@ public class CA
 
 		try
 		{
-			Log("Get Cr!pAES at http://madebits.com");
+			Log("Get Cr!pAES at ");
 			if((args == null) || args.Length <= 0)
 			{
 				ShowHelp();

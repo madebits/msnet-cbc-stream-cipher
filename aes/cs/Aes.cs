@@ -4,7 +4,7 @@ using System;
 //http://msdn.microsoft.com/msdnmag/issues/03/11/AES/default.aspx
 //(c) James McCaffrey - Please check file: EULA.DOC
 //Article title: Keep Your Data Secure with the New Advanced Encryption Standard
-// Modified a little bit for speed by Vasian Cepa http://madebits.com/
+// Modified a little bit for speed by Vasian Cepa /
 
 namespace aes
 {

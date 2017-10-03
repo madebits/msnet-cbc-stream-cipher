@@ -1,5 +1,5 @@
 // (c) Vasian Cepa 2004
-// http://madebits.com
+// 
 // compile as:
 // csc aes-example.cs /r:aes.dll
 using System;
